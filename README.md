@@ -1,2 +1,0 @@
-# blackjackjava
-Blackjava in Java
