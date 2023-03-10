@@ -4,7 +4,7 @@ Blackjack is a simple game that was coded with Java in this example.
 
 
 ## Preview
-![usage](https://github.com/doughtyphilipe/Blackjack/blob/main/Blackjack.gif)
+![usage](https://github.com/doughtyphilipe/blackjackjava/blob/main/Blackjack.gif)
 
 ## Main function
 
